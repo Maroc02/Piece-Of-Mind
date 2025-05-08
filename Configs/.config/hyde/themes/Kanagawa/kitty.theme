@@ -1,0 +1,67 @@
+$HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
+
+# General
+foreground #DCD7BA
+background #1F1F28
+
+# Black
+color0  #1F1F28
+color8  #727169
+
+# Red
+color1  #C34043
+color9  #E82424
+
+# Green
+color2  #76946A
+color10 #98BB6C
+
+# Yellow
+color3  #C0A36E
+color11 #E6C384
+
+# Blue
+color4  #7E9CD8
+color12 #7FB4CA
+
+# Magenta
+color5  #957FB8
+color13 #938AA9
+
+# Cyan
+color6  #6A9589
+color14 #7AA89F
+
+# White
+color7  #C8C093
+color15 #DCD7BA
+
+# Cursor
+cursor #C8C093
+cursor_text_color #1F1F28
+
+# Selection highlight
+selection_foreground #C8C093
+selection_background #2D4F67
+
+# URL color
+url_color #72A7BC
+
+# Window borders
+active_border_color #7FB4CA
+inactive_border_color #343A52
+bell_border_color #787C99
+
+# Tab bar
+tab_bar_style fade
+tab_fade 1
+active_tab_foreground   #C8C093
+active_tab_background   #1F1F28
+active_tab_font_style   bold
+inactive_tab_foreground #727169
+inactive_tab_background #1F1F28
+inactive_tab_font_style bold
+tab_bar_background #1F1F28
+
+# Title bar
+macos_titlebar_color #1F1F28
