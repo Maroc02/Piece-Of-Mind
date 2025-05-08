@@ -48,3 +48,6 @@ Alternatively, you can use a general option that works on both `HyDE Project` an
 ```sh
 ~/HyDE/Scripts/themepatcher.sh "Piece Of Mind" https://github.com/Maroc02/Piece-Of-Mind
 ```
+
+## Notes
+This theme is inspired by the **Kanagawa** color palette and is based on [rishav12s's unreleased Kanagawa theme](https://github.com/rishav12s/Kanagawa). His repository also includes additional potential wallpapers.
