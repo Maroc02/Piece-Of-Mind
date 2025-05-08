@@ -3,15 +3,10 @@ $HOME/.config/hypr/themes/theme.conf |> $HOME/.config/hypr/themes/colors.conf
 $GTK_THEME = Kanagawa
 $ICON_THEME = Kanagawa
 $COLOR_SCHEME = prefer-dark
-$CURSOR_THEME = Bibata-Modern-Ice
-$CURSOR_SIZE = 20
-$CODE_THEME = Kanagawa
 
 exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK_THEME'
 exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON_THEME'
 exec = gsettings set org.gnome.desktop.interface color-scheme '$COLOR_SCHEME'
-exec = Hyde cursor theme '$CURSOR_THEME' size '$CURSOR_SIZE'
-exec = Hyde code theme '$CODE_THEME'
 
 general {
     gaps_in = 3
