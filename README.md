@@ -28,7 +28,7 @@
 
 To install **Piece Of Mind** on `HyDE Project`, run the following command:
 ```sh
-hydectl theme import --name "Piece Of Mind" --url https://github.com/Maroc02/hyde-themes/tree/Piece-Of-Mind
+hydectl theme import --name "Piece Of Mind" --url https://github.com/Maroc02/Piece-Of-Mind
 ```
 
 Alternatively, you can import the theme by running:
@@ -42,7 +42,7 @@ Then choose **Piece Of Mind** from the options.
 
 To install **Piece Of Mind** on `Hyprdots`, run the following command:
 ```sh
-Hyde theme import "Piece Of Mind" https://github.com/Maroc02/hyde-themes/tree/Piece-Of-Mind
+Hyde theme import "Piece Of Mind" https://github.com/Maroc02/Piece-Of-Mind
 ```
 
 Alternatively, you can import the theme by running:
@@ -56,5 +56,5 @@ Then choose **Piece Of Mind** from the options.
 
 Alternatively, you can use a general option that works on both `HyDE Project` and `Hyprdots`:
 ```sh
-~/HyDE/Scripts/themepatcher.sh "Piece Of Mind" https://github.com/Maroc02/hyde-themes/tree/Piece-Of-Mind
+~/HyDE/Scripts/themepatcher.sh "Piece Of Mind" https://github.com/Maroc02/Piece-Of-Mind
 ```
