@@ -1,4 +1,4 @@
-$HOME/.config/hypr/themes/theme.conf |> $HOME/.config/hypr/themes/colors.conf
+$HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
 $GTK_THEME = Kanagawa
 $ICON_THEME = Kanagawa
@@ -12,27 +12,27 @@ general {
     gaps_in = 3
     gaps_out = 8
     border_size = 2
-    col.active_border = rgba(957fb8ff) rgba(c8c093ff) 45deg
-    col.inactive_border = rgba(223249cc) rgba(363646cc) 45deg
+    col.active_border = rgba(957FB8FF) rgba(C8C093FF) 45deg
+    col.inactive_border = rgba(223249CC) rgba(363646CC) 45deg
     layout = dwindle
     resize_on_border = true
 }
 
 group {
-    col.border_active = rgba(957fb8ff) rgba(c8c093ff) 45deg
-    col.border_inactive = rgba(223249cc) rgba(363646cc) 45deg
-    col.border_locked_active = rgba(957fb8ff) rgba(c8c093ff) 45deg
-    col.border_locked_inactive = rgba(223249cc) rgba(363646cc) 45deg
+    col.border_active = rgba(957FB8FF) rgba(C8C093FF) 45deg
+    col.border_inactive = rgba(223249CC) rgba(363646CC) 45deg
+    col.border_locked_active = rgba(957FB8FF) rgba(C8C093FF) 45deg
+    col.border_locked_inactive = rgba(223249CC) rgba(363646CC) 45deg
 }
 
 decoration {
     rounding = 10
-    drop_shadow = false
+    shadow:enabled = false
 
     blur {
         enabled = yes
         size = 4
-        passes = 2
+        passes = 3
         new_optimizations = on
         ignore_opacity = on
         xray = false

@@ -55,13 +55,13 @@ bell_border_color #787C99
 # Tab bar
 tab_bar_style fade
 tab_fade 1
-active_tab_foreground   #C8C093
-active_tab_background   #1F1F28
-active_tab_font_style   bold
+active_tab_foreground #C8C093
+active_tab_background #1F1F28
+active_tab_font_style bold
 inactive_tab_foreground #727169
 inactive_tab_background #1F1F28
 inactive_tab_font_style bold
 tab_bar_background #1F1F28
 
-# Title bar
+# Window titlebars
 macos_titlebar_color #1F1F28
